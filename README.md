@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/sindhukavitha/leetcode/tree/master/0041-first-missing-positive) |
 | [0503-next-greater-element-ii](https://github.com/sindhukavitha/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0792-binary-search](https://github.com/sindhukavitha/leetcode/tree/master/0792-binary-search) |
 ## Stack
@@ -91,4 +92,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2645-pass-the-pillow](https://github.com/sindhukavitha/leetcode/tree/master/2645-pass-the-pillow) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/sindhukavitha/leetcode/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
