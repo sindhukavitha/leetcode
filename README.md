@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0507-perfect-number](https://github.com/sindhukavitha/leetcode/tree/master/0507-perfect-number) |
+| [0913-random-flip-matrix](https://github.com/sindhukavitha/leetcode/tree/master/0913-random-flip-matrix) |
 | [2645-pass-the-pillow](https://github.com/sindhukavitha/leetcode/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/sindhukavitha/leetcode/tree/master/0041-first-missing-positive) |
+| [0913-random-flip-matrix](https://github.com/sindhukavitha/leetcode/tree/master/0913-random-flip-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -128,4 +130,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/sindhukavitha/leetcode/tree/master/0307-range-sum-query-mutable) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0913-random-flip-matrix](https://github.com/sindhukavitha/leetcode/tree/master/0913-random-flip-matrix) |
+## Randomized
+|  |
+| ------- |
+| [0913-random-flip-matrix](https://github.com/sindhukavitha/leetcode/tree/master/0913-random-flip-matrix) |
 <!---LeetCode Topics End-->
