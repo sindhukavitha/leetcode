@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/sindhukavitha/leetcode/tree/master/0068-text-justification) |
+| [0072-edit-distance](https://github.com/sindhukavitha/leetcode/tree/master/0072-edit-distance) |
 | [0572-subtree-of-another-tree](https://github.com/sindhukavitha/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -99,4 +100,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/sindhukavitha/leetcode/tree/master/0041-first-missing-positive) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0072-edit-distance](https://github.com/sindhukavitha/leetcode/tree/master/0072-edit-distance) |
 <!---LeetCode Topics End-->
