@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/sindhukavitha/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0792-binary-search](https://github.com/sindhukavitha/leetcode/tree/master/0792-binary-search) |
 ## Stack
 |  |
 | ------- |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/sindhukavitha/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0792-binary-search](https://github.com/sindhukavitha/leetcode/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
