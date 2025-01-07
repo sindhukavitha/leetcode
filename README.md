@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0041-first-missing-positive](https://github.com/sindhukavitha/leetcode/tree/master/0041-first-missing-positive) |
 | [0068-text-justification](https://github.com/sindhukavitha/leetcode/tree/master/0068-text-justification) |
+| [0303-range-sum-query-immutable](https://github.com/sindhukavitha/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0503-next-greater-element-ii](https://github.com/sindhukavitha/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0792-binary-search](https://github.com/sindhukavitha/leetcode/tree/master/0792-binary-search) |
 ## Stack
@@ -104,4 +105,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/sindhukavitha/leetcode/tree/master/0072-edit-distance) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/sindhukavitha/leetcode/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/sindhukavitha/leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
