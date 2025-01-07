@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0507-perfect-number](https://github.com/sindhukavitha/leetcode/tree/master/0507-perfect-number) |
 | [2645-pass-the-pillow](https://github.com/sindhukavitha/leetcode/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
