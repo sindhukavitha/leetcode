@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/sindhukavitha/leetcode/tree/master/0041-first-missing-positive) |
+| [0068-text-justification](https://github.com/sindhukavitha/leetcode/tree/master/0068-text-justification) |
 | [0503-next-greater-element-ii](https://github.com/sindhukavitha/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0792-binary-search](https://github.com/sindhukavitha/leetcode/tree/master/0792-binary-search) |
 ## Stack
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/sindhukavitha/leetcode/tree/master/0068-text-justification) |
 | [0572-subtree-of-another-tree](https://github.com/sindhukavitha/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -91,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/sindhukavitha/leetcode/tree/master/0068-text-justification) |
 | [2645-pass-the-pillow](https://github.com/sindhukavitha/leetcode/tree/master/2645-pass-the-pillow) |
 ## Hash Table
 |  |
