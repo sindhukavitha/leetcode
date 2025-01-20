@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sindhukavitha/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sindhukavitha/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Array
 |  |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sindhukavitha/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0068-text-justification](https://github.com/sindhukavitha/leetcode/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/sindhukavitha/leetcode/tree/master/0072-edit-distance) |
 | [0514-freedom-trail](https://github.com/sindhukavitha/leetcode/tree/master/0514-freedom-trail) |
