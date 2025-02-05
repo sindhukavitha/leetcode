@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/sindhukavitha/leetcode/tree/master/0041-first-missing-positive) |
+| [0055-jump-game](https://github.com/sindhukavitha/leetcode/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/sindhukavitha/leetcode/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/sindhukavitha/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sindhukavitha/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/sindhukavitha/leetcode/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/sindhukavitha/leetcode/tree/master/0072-edit-distance) |
 | [0514-freedom-trail](https://github.com/sindhukavitha/leetcode/tree/master/0514-freedom-trail) |
 ## Design
@@ -162,4 +164,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sindhukavitha/leetcode/tree/master/0074-search-a-2d-matrix) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/sindhukavitha/leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
