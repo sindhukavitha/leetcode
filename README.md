@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0307-range-sum-query-mutable](https://github.com/sindhukavitha/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0503-next-greater-element-ii](https://github.com/sindhukavitha/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0792-binary-search](https://github.com/sindhukavitha/leetcode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/sindhukavitha/leetcode/tree/master/0907-koko-eating-bananas) |
 ## Stack
 |  |
 | ------- |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sindhukavitha/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/sindhukavitha/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0792-binary-search](https://github.com/sindhukavitha/leetcode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/sindhukavitha/leetcode/tree/master/0907-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
