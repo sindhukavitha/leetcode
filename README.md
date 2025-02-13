@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sindhukavitha/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0633-sum-of-square-numbers](https://github.com/sindhukavitha/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sindhukavitha/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Array
 |  |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/sindhukavitha/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sindhukavitha/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/sindhukavitha/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0633-sum-of-square-numbers](https://github.com/sindhukavitha/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/sindhukavitha/leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/sindhukavitha/leetcode/tree/master/0907-koko-eating-bananas) |
 ## Bit Manipulation
@@ -113,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0507-perfect-number](https://github.com/sindhukavitha/leetcode/tree/master/0507-perfect-number) |
+| [0633-sum-of-square-numbers](https://github.com/sindhukavitha/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0913-random-flip-matrix](https://github.com/sindhukavitha/leetcode/tree/master/0913-random-flip-matrix) |
 | [2645-pass-the-pillow](https://github.com/sindhukavitha/leetcode/tree/master/2645-pass-the-pillow) |
 ## Simulation
