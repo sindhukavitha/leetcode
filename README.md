@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0068-text-justification](https://github.com/sindhukavitha/leetcode/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/sindhukavitha/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sindhukavitha/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/sindhukavitha/leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/sindhukavitha/leetcode/tree/master/0088-merge-sorted-array) |
 | [0303-range-sum-query-immutable](https://github.com/sindhukavitha/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/sindhukavitha/leetcode/tree/master/0307-range-sum-query-mutable) |
@@ -37,12 +38,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/sindhukavitha/leetcode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sindhukavitha/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sindhukavitha/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/sindhukavitha/leetcode/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/sindhukavitha/leetcode/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/sindhukavitha/leetcode/tree/master/0503-next-greater-element-ii) |
 ## Tree
 |  |
@@ -137,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0055-jump-game](https://github.com/sindhukavitha/leetcode/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/sindhukavitha/leetcode/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/sindhukavitha/leetcode/tree/master/0085-maximal-rectangle) |
 | [0514-freedom-trail](https://github.com/sindhukavitha/leetcode/tree/master/0514-freedom-trail) |
 ## Design
 |  |
@@ -175,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sindhukavitha/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/sindhukavitha/leetcode/tree/master/0085-maximal-rectangle) |
 ## Greedy
 |  |
 | ------- |
