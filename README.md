@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sindhukavitha/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/sindhukavitha/leetcode/tree/master/0041-first-missing-positive) |
 | [0913-random-flip-matrix](https://github.com/sindhukavitha/leetcode/tree/master/0913-random-flip-matrix) |
+| [3678-design-task-manager](https://github.com/sindhukavitha/leetcode/tree/master/3678-design-task-manager) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/sindhukavitha/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/sindhukavitha/leetcode/tree/master/0307-range-sum-query-mutable) |
+| [3678-design-task-manager](https://github.com/sindhukavitha/leetcode/tree/master/3678-design-task-manager) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -205,4 +207,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0502-ipo](https://github.com/sindhukavitha/leetcode/tree/master/0502-ipo) |
+| [3678-design-task-manager](https://github.com/sindhukavitha/leetcode/tree/master/3678-design-task-manager) |
+## Ordered Set
+|  |
+| ------- |
+| [3678-design-task-manager](https://github.com/sindhukavitha/leetcode/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
