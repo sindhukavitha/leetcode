@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sindhukavitha/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sindhukavitha/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sindhukavitha/leetcode/tree/master/0088-merge-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/sindhukavitha/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sindhukavitha/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/sindhukavitha/leetcode/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/sindhukavitha/leetcode/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/sindhukavitha/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sindhukavitha/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sindhukavitha/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/sindhukavitha/leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/sindhukavitha/leetcode/tree/master/0088-merge-sorted-array) |
