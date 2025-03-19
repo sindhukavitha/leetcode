@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/sindhukavitha/leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/sindhukavitha/leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/sindhukavitha/leetcode/tree/master/0389-find-the-difference) |
+| [0415-add-strings](https://github.com/sindhukavitha/leetcode/tree/master/0415-add-strings) |
 | [0514-freedom-trail](https://github.com/sindhukavitha/leetcode/tree/master/0514-freedom-trail) |
 | [0572-subtree-of-another-tree](https://github.com/sindhukavitha/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/sindhukavitha/leetcode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/sindhukavitha/leetcode/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/sindhukavitha/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0913-random-flip-matrix](https://github.com/sindhukavitha/leetcode/tree/master/0913-random-flip-matrix) |
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/sindhukavitha/leetcode/tree/master/0068-text-justification) |
+| [0415-add-strings](https://github.com/sindhukavitha/leetcode/tree/master/0415-add-strings) |
 | [2645-pass-the-pillow](https://github.com/sindhukavitha/leetcode/tree/master/2645-pass-the-pillow) |
 ## Hash Table
 |  |
