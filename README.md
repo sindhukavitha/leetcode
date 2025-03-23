@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0068-text-justification](https://github.com/sindhukavitha/leetcode/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/sindhukavitha/leetcode/tree/master/0072-edit-distance) |
 | [0257-binary-tree-paths](https://github.com/sindhukavitha/leetcode/tree/master/0257-binary-tree-paths) |
+| [0299-bulls-and-cows](https://github.com/sindhukavitha/leetcode/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/sindhukavitha/leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/sindhukavitha/leetcode/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/sindhukavitha/leetcode/tree/master/0415-add-strings) |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sindhukavitha/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/sindhukavitha/leetcode/tree/master/0041-first-missing-positive) |
+| [0299-bulls-and-cows](https://github.com/sindhukavitha/leetcode/tree/master/0299-bulls-and-cows) |
 | [0389-find-the-difference](https://github.com/sindhukavitha/leetcode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/sindhukavitha/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0913-random-flip-matrix](https://github.com/sindhukavitha/leetcode/tree/master/0913-random-flip-matrix) |
@@ -227,4 +229,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3678-design-task-manager](https://github.com/sindhukavitha/leetcode/tree/master/3678-design-task-manager) |
+## Counting
+|  |
+| ------- |
+| [0299-bulls-and-cows](https://github.com/sindhukavitha/leetcode/tree/master/0299-bulls-and-cows) |
 <!---LeetCode Topics End-->
