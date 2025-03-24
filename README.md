@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sindhukavitha/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sindhukavitha/leetcode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/sindhukavitha/leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/sindhukavitha/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/sindhukavitha/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sindhukavitha/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Array
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0299-bulls-and-cows](https://github.com/sindhukavitha/leetcode/tree/master/0299-bulls-and-cows) |
 | [0316-remove-duplicate-letters](https://github.com/sindhukavitha/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/sindhukavitha/leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/sindhukavitha/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/sindhukavitha/leetcode/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/sindhukavitha/leetcode/tree/master/0415-add-strings) |
 | [0514-freedom-trail](https://github.com/sindhukavitha/leetcode/tree/master/0514-freedom-trail) |
